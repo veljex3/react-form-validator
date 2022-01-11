@@ -1,0 +1,15 @@
+{
+  "name": "react-form-validator",
+  "version": "1.0.0",
+  "description": "Lightweight React library for form validation.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "keywords": [
+    "react-form-validator",
+    "react",
+    "form",
+    "validator"
+  ],
+  "author": "Veljko Marjanovic <veljex3@gmail.com> (https://github.com/veljex3)",
+  "license": "MIT"
+}
